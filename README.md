@@ -1,1 +1,2 @@
 # Sample-Project-Documents
+This document outlines the purchasing process project, aimed at analyzing and optimizing procurement workflows to enhance operational efficiency and strengthen vendor management. The focus is on identifying areas of improvement and implementing strategic solutions to streamline processes and achieve measurable results. This file consist of user cases, functional specifications, instructions and sample screens prototype..
